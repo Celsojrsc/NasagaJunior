@@ -1,4 +1,4 @@
-<img src = "giphy.gif" width = "450px" align = "right" body = "low">
+<img src = "giphy.gif" width = "450px" align = "right">
 
 # Seja bem vindo!
 
@@ -7,7 +7,6 @@ Sou Analista de Suporte à Projetos, Curto Rock, e atualmente estou cursando Cie
 
 - Estudando de Ciencia de dados 💻
 - Analista técnico na Intelbras 💚
-- Aprendendo sobre machine learning 🤖
 
 <h3>&nbsp; Backend </h3>
 <p>
