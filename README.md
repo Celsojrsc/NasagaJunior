@@ -3,7 +3,7 @@
 # Seja bem vindo!
 
 
-Sou Analista de Suporte à Projetos, Curto Rock, e atualmente estou cursando Ciencia de dados com ênfase em IA
+Sou Analista de Suporte à Projetos, atualmente cursando Ciencia de dados com ênfase em IA
 
 - Estudando de Ciencia de dados 💻
 - Analista técnico na Intelbras 💚
