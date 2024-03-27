@@ -3,10 +3,10 @@
 # Seja bem vindo!
 
 
-Sou Analista de Suporte à Projetos, atualmente cursando Ciencia de dados com ênfase em IA
+Trabalho na área de suporte a grandes projetos. Cursando ciencia de dados com ênfase em IA
 
-- Estudando de Ciencia de dados 💻
-- Analista técnico na Intelbras 💚
+- Estudante de ciencia de dados
+- Analista técnico na Intelbras 
 
 <h3>&nbsp; Backend </h3>
 <p>
