@@ -1,4 +1,3 @@
-<img src = "giphy.gif" width = "450px" align = "right">
 
 # Seja bem vindo!
 
